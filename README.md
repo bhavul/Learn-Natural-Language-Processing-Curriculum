@@ -42,6 +42,9 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 - Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial 
 - Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice 
 
+-----------------------------------------
+
+
 ## Week 2 - Language Models & Lexicons (pre-deep learning)
 ### Description:
 - Lexicons
